@@ -3,7 +3,7 @@
 A Simple Digital Wallet Application.
 
 # Result
-
+![Design]https://github.com/indrawow/flutter-design_006/blob/master/Design%202.jpg
 
 ## Getting Started
 
